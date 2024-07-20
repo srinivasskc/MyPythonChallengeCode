@@ -22,5 +22,8 @@ The program should calculate age and print based on the users age, if user is el
 Challenge 5 - Even or Odd
 The program to determine whether the number is odd or even.
 
-Challenge 6 - 
+Challenge 6 - Loops
+The program to countdown from given number to zero.
 
+Challenge 7 - Fibonacci Series
+The program to write the fibonacci series
