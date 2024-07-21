@@ -28,11 +28,11 @@ The program to countdown from given number to zero.
 Challenge 7 - Fibonacci Series
 The program to write the fibonacci series
 
-Challenge 9 - Lists
+Challenge 8 - Lists
 The program to find the value in the list
 If value is in list, value found. else value is not found.
 
-Challenge 10 - Input Lists
+Challenge 9 - Input Lists
 The program to have empty list and asks the user to add 3 movies to the list. and print the fav movies from the list.
 
 
