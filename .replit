@@ -1,4 +1,4 @@
-entrypoint = "fibonacci.py"
+entrypoint = "inputlists.py"
 modules = ["python-3.10"]
 
 [nix]
