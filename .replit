@@ -1,4 +1,4 @@
-entrypoint = "inputlists.py"
+entrypoint = "nesteddictionaries.py"
 modules = ["python-3.10"]
 
 [nix]
