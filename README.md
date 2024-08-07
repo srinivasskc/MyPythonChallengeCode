@@ -55,3 +55,6 @@ existing library dictionary, dictionary representing new book,
 name of the author of new book
 The function should add the new book to the correct author in the library dictionary.
 If the author does not exist in library yet, the function should add them.
+
+
+![LearnPython_Udemy_FCertificate](https://github.com/user-attachments/assets/25113087-ab9a-42cd-8bfd-9f6dadcd9205)
