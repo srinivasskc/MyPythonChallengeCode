@@ -2,7 +2,7 @@
 
 Course: Learn PYTHON Programming Language in 12 Days
 
-Udemy Link: https://www.udemy.com/course/the-complete-python-challenge-based-cours
+Udemy Link: https://www.udemy.com/course/the-complete-python-challenge-based-course
 
 Basics - Print Function, Variables and Types, Adding Comments
 
